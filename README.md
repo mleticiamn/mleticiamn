@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Letícia Maranhão</h1>
 <h3 align="center">A computer science student at CIn - UFPE</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mleticiamn" alt="mleticiamn" /></a> </p>
-
 - 🌱 I’m currently learning **intrusion detection systems**
 
 - 📫 How to reach me **marialeticiamn2003@gmail.com**
