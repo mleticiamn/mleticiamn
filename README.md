@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **marialeticiamn2003@gmail.com**
 
-- 📄 Know about my experiences [https://tan-randee-49.tiiny.site/](https://tan-randee-49.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
