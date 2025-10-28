@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **intrusion detection systems**
 
-- 📫 How to reach me **marialeticiamn2003@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
